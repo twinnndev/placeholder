@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Sentinel isn't built yet."]
+CMD ["echo", "Sentinel is in development."]
